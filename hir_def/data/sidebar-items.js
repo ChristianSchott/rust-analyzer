@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["adt","Defines hir-level representation of structs, enums and unions"]],"struct":[["ConstData",""],["FunctionData",""],["ImplData",""],["Macro2Data",""],["MacroRulesData",""],["ProcMacroData",""],["StaticData",""],["TraitAliasData",""],["TraitData",""],["TypeAliasData",""]]};
